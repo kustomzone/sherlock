@@ -1,25 +1,20 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
+Carbonmade
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -48,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
